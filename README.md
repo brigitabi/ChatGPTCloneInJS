@@ -7,7 +7,8 @@ This is a ChatGPT clone created by JavaScript, HTML, and CSS. It has been inspir
 This project is a ChatGPT clone that allows users to have interactive conversations with an AI-powered language model. It provides a user interface where users can input messages, and the AI model generates responses based on the input. The clone utilizes JavaScript for the logic, HTML for the structure, and CSS for the styling.
 
 ### Demo
-![ChatGPT Clone by Brigita](ChatGPTClone.png)
+
+![ChatGPT Clone](public/ChatGPTClone.png)
 
 ## Features
 
