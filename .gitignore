@@ -1,1 +1,7 @@
+# Editor-specific files
 .vscode/
+
+.DS_Store
+
+
+

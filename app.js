@@ -4,7 +4,7 @@ const outPutElement = document.querySelector('#output')
 const inputElement = document.querySelector('input')
 const historyElement = document.querySelector('.history')
 const buttonElement = document.querySelector('button')
-
+  
 function changeInput(value) { 
     const inputElement = document.querySelector('input')
     inputElement.value = value
