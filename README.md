@@ -1,6 +1,6 @@
 # ChatGPT Clone with Javascript
 
-This is a ChatGPT clone created by JavaScript, HTML, and CSS. It has been inspired by Ania's YouTube tutorial: [Build ChatGPT in JavaScript](https://www.youtube.com/watch?v=05ssqx-SZT0&t=2179s).
+This is a ChatGPT clone created by JavaScript, HTML, and CSS. It has been inspired by Ania's YouTube tutorial: [Build ChatGPT in JavaScript](https://www.youtube.com/watch?v=05ssqx-SZT0).
 
 ## Description
 
